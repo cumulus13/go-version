@@ -7,4 +7,4 @@ description = A version-file discovery library for Go
 created     = 2024-06-01
 license     = MIT
 
-version = "1.0.1"
+version = "1.0.2"
