@@ -1,0 +1,10 @@
+# go-version project version file
+version     = 1.0.0
+authors     = Hadi Cahyadi
+emails      = cumulus13@gmail.com
+homes       = https://github.com/cumulus13/go-version
+description = A version-file discovery library for Go
+created     = 2024-06-01
+license     = MIT
+
+version = "1.0.1"
